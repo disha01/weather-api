@@ -1,0 +1,43 @@
+.bidy{
+  font-family: 'Patrick Hand', cursive;
+}
+.background {
+    background-color: rgb(3, 21, 30);
+    color: aliceblue;
+    text-align: center;
+    padding: 20px 40px 20px 40px;
+  }
+
+  .left{
+    border-radius: 10px;
+    margin:10px;
+    padding: 3px 10px;
+    
+  }
+  
+.leftbutton{
+    
+    background-color:aliceblue ;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  position: relative;
+  text-align: center;
+  padding: 3px 15px;
+  color: #929090;
+}
+
+
+/* upto image -----------------------------------------------------*/
+
+.boxtop{
+  
+  padding-top: 80px;
+  padding-bottom: 120px;
+}
+.box1{
+    padding-top: 50px;
+   
+}
+.box2{
+  padding: 40px 10px 40px 10px;
+}
